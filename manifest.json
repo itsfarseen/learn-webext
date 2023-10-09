@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+	"name": "Learn WebExt",
+	"description": "Learn how to make a web extension",
+	"version": "1",
+	"author": "Farseen",
+	"browser_action": {
+		"default_icon": "tab-icon.png",
+		"default_title": "Learn WebExt"
+	},
+	"chrome_url_overrides": {
+		"newtab": "newtab.html"
+	},
+	"permissions": [
+		"activeTab"
+	]
+}
