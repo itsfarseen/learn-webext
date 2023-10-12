@@ -1,0 +1,6 @@
+Plan
+----
+
+- Migrate to Manifest V3.
+- Toggle the background color using button in popup.
+- Add preference page and ability to whitelist domains.
